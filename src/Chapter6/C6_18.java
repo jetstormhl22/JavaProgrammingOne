@@ -25,6 +25,12 @@ public class C6_18 {
         }
     }
 
+    /**
+     * Method returns true if parameters are met.
+     *
+     * @param password A variable that holds the user input.
+     * @return true
+     */
     public static boolean isValid(String password) {
         int length = password.length();
         int counter = 0;

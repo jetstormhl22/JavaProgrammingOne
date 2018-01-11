@@ -46,6 +46,13 @@ public class P6 {
         } while (!response.equalsIgnoreCase("no"));
     }
 
+    /**
+     * method to find the total.
+     *
+     * @param dollars the amount of dollars we are converting.
+     * @param money the amount of currency we are converting.
+     * @return total
+     */
     public static double Convert(double dollars, double money) {
         double reduction = 0.95;
         double reduction2 = 0.9;
