@@ -3,7 +3,7 @@ package Chapter6;
 import java.util.Scanner;
 
 /**
- * Program to convert money amounts of different currencies.
+ * Program to convert money amounts of different currencies
  *
  * @author Hayden Love
  */
