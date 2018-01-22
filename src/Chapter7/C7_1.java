@@ -1,7 +1,6 @@
 package Chapter7;
 
 import java.util.Scanner;
-import java.util.Arrays;
 
 /**
  * Program to sort student's grades based on scores that the user inputs.
